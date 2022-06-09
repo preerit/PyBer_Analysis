@@ -29,3 +29,9 @@
 
 The data also shows more fluctutations in total fares in urban over rural and suburban city types.
 
+---
+
+## Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+* The number of drivers in rural and suburban city types are significantly less than urban, indicating insufficient market penetration in such areas
+* Average fare per ride is however higher in rural and suburban city types indicating that those areas need fare normalization 
+* Average fare per driver is much higher in rural city type than urban and suburban city types thus indicating a need for wage revision
