@@ -18,3 +18,14 @@
 * Has the highest number of rides
 * Has the highest number of drivers
 * Least average fare per ride and average fare per driver
+
+### City Type:rural
+* Has the least number of rides
+* Has the least number of drivers
+* Highest average fare per ride and average fare per driver
+
+### City Type:suburban
+* Lies in between urban and rural cross-sections
+
+The data also shows more fluctutations in total fares in urban over rural and suburban city types.
+
