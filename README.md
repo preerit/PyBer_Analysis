@@ -10,4 +10,4 @@
 
 ## Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 
-![alt text](http://url/to/img.png)
+![PyBer_fare_summary](https://github.com/preerit/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
